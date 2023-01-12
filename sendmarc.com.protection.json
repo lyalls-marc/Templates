@@ -7,7 +7,6 @@
   "syncRedirectDomain": "sendmarc.com",
   "logoUrl": "https://portal.sendmarc.com/img/light-bg-transparent.svg",
   "syncPubKeyDomain": "domainconnect.sendmarc.com",
-  "warnPhishing": true,
   "description": "Stop cyber-criminals from sending email using your domain and protect your customers, suppliers and employees from attacks.",
   "variableDescription": "Self explanatory in the variable names",
   "records": [
